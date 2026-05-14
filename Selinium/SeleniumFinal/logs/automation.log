@@ -1,0 +1,24 @@
+2026-05-09 15:49:42,959 - INFO - =======================
+2026-05-09 15:49:42,960 - INFO - STARTING TEST
+2026-05-09 15:49:42,960 - INFO - Reading Configure
+2026-05-09 15:49:44,915 - INFO - Opened Browser
+2026-05-09 15:49:45,939 - INFO - URL Loaded: https://www.saucedemo.com/
+2026-05-09 15:49:48,736 - INFO - Closing Browser: edge
+2026-05-09 15:49:48,736 - INFO - ENDING TEST
+2026-05-09 15:49:48,736 - INFO - =======================================
+2026-05-09 15:49:48,738 - INFO - =======================
+2026-05-09 15:49:48,738 - INFO - STARTING TEST
+2026-05-09 15:49:48,738 - INFO - Reading Configure
+2026-05-09 15:49:50,542 - INFO - Opened Browser
+2026-05-09 15:49:51,466 - INFO - URL Loaded: https://www.saucedemo.com/
+2026-05-09 15:49:53,904 - INFO - Closing Browser: edge
+2026-05-09 15:49:53,904 - INFO - ENDING TEST
+2026-05-09 15:49:53,904 - INFO - =======================================
+2026-05-09 15:49:53,906 - INFO - =======================
+2026-05-09 15:49:53,906 - INFO - STARTING TEST
+2026-05-09 15:49:53,906 - INFO - Reading Configure
+2026-05-09 15:49:55,556 - INFO - Opened Browser
+2026-05-09 15:49:56,322 - INFO - URL Loaded: https://www.saucedemo.com/
+2026-05-09 15:49:58,715 - INFO - Closing Browser: edge
+2026-05-09 15:49:58,715 - INFO - ENDING TEST
+2026-05-09 15:49:58,715 - INFO - =======================================
